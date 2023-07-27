@@ -3,7 +3,7 @@
     <pluginPointName>Directory Resource</pluginPointName>
     <type>Directory</type>
     <id>Default Resource</id>
-    <name>[Ajay Movaliya Default Resource]</name>
+    <name>[Default Resource]</name>
     <description>Loads libraries from the custom-lib folder in the Mirth Connect home directory.</description>
     <includeWithGlobalScripts>true</includeWithGlobalScripts>
     <loadParentFirst>false</loadParentFirst>
